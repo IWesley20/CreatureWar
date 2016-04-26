@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Human()
+comment1.params=hp\ str
+comment1.target=Human(int,\ int)
+comment2.params=hp
+comment2.target=void\ setHP(int)
+comment3.params=str
+comment3.target=void\ setStrength(int)
+numComments=4

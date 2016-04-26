@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Balrog()
+comment1.params=hp\ str
+comment1.target=Balrog(int,\ int)
+numComments=2
