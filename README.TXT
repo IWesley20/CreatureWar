@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: Creature War
+PURPOSE OF PROJECT: Battle of Attrition
+VERSION or DATE: August 25, 2016
 HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+AUTHORS: Isaiah Wesley
+USER INSTRUCTIONS: The Fire Ants survived and 3 members were alive.
